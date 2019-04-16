@@ -1,0 +1,15 @@
+.idea
+*.html
+*.xml
+*.png
+*-screenshot-*.png
+*.zip
+Reports/Reports-admin.zip
+Reports/Reports-parent.zip
+Reports/Reports-Student.zip
+Reports/Reports-teacher.zip
+Reports/appium-screenshot-*.png
+Reports/appium-screenshot-1.png
+Reports/appium-screenshot-2.png
+Reports/appium-screenshot-3.png
+Reports/appium-screenshot-4.png

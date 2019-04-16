@@ -1,0 +1,16 @@
+browser: "chrome"
+env: "test"
+platform: "windows"
+alias: "None"
+blank_page: "about:blank"
+url: "https://en.todoist.com/"
+remote_url: "http://uber.test.local:4444/wd/hub"
+projectname: "Test Template"
+# username: vigneshwarankamatchi
+username: vigneshwaran.kamatchi.89@gmail.com
+Password: P@ssw0rd
+email: vigneshwaran.kamatchi.89@gmail.com
+
+# email: vigneshwaran.kamatchi.89@gmail.com
+
+
